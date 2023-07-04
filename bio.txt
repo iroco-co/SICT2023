@@ -1,0 +1,3 @@
+Bruno Thomas is CTO of Iroco and a software craftsman at ICIJ (International Consortium of Investigative Journalists). He has worked in computer science for 20 years. He started his career in an IT services company, then he worked for a cultural magazine in France. After that, he was employed for 10 years by the French telecommunications company Orange as a software developer and coach. He learned and implemented agile software development, an approach to software development and a production philosophy that insists on collaborative work and lean production.
+
+In 2016 he quit Orange to create Iroco, a green friendly mail service for small businesses. Iroco tries to imagine what could be IT in a COP21 1.5°C global warming scenario.
