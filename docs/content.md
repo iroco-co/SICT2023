@@ -18,7 +18,7 @@ class: middle
 class: middle
 .header[![iroco-logo](images/iroco.svg)]
 
-## An ecodesigned mail service
+## Classe : An ecodesigned mail service
 
 Lean approach : measure the runtime
 
@@ -35,13 +35,23 @@ class: middle
 
 ## Tools
 
-- languages efficiency
 - benchmarks
 - profiling
 - simplicity
 
 [Lean conferences](https://lean4greenit.barreverte.fr), greenIT conferences
 <p style="font-size:50px">🍀&nbsp;🥳</p>
+---
+class: middle
+.header[![iroco-logo](images/iroco.svg)]
+
+## Iroco
+
+Legal entity: simplified joint-stock company
+(SAS : Société par Action Simplifée)
+
+Why not cooperative society?
+(SCOP, SCIC...)
 ---
 class: middle
 .header[![iroco-logo](images/iroco.svg)]
@@ -71,17 +81,42 @@ class: middle
 * ...
 
 langage/code optimization: only few %
-
 ---
 class: middle
 .header[![iroco-logo](images/iroco.svg)]
 
-## Future actions
+## Perspectives
 
-- Usage change, nudges (lowtech)
-- slow down & sobriety
-- backward compatibility (scope 3)
-- build future ICT imaginary & stories
+- Change use cases, nudges (lowtech)
+- Increase delay & sobriety
+- Backward compatibility (scope 3)
+- Build future ICT imaginary & stories
+---
+class: middle
+.header[![iroco-logo](images/iroco.svg)]
+
+## Functions of ICT
+
+- Storage (is it?)
+- Communication
+---
+class: middle
+.header[![iroco-logo](images/iroco.svg)]
+
+## Conception of ICT
+
+- Decentralized, "archipellisation"
+- Should empower users
+---
+class: middle
+.header[![iroco-logo](images/iroco.svg)]
+
+## Successes
+
+Mostly human:
+
+- Community building
+- Mutual-aid and building Knowledge with others
 ---
 class: middle
 .header[![iroco-logo](images/iroco.svg)]

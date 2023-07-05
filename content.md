@@ -36,8 +36,8 @@ Paradygm shift: 5
 
 Since Aristotle we know that it is more persuasive.
 
-- logos (logic, reasonning)
-- ethos (trust, authority)           => persuation
+- logos (logic, reasoning)
+- ethos (trust, authority)           => persuasion
 - pathos (emotion, beliefs)
 
 
@@ -64,7 +64,7 @@ Ex : frugalité
 
 constraints that prevent the emergence of these imaginaries
 
-- amish and oil lamp : what is progress anyway ?
+- Amish and oil lamp : what is progress anyway ?
 - safe place : emotions v.s. rationality
 - fear for tech ppl to lose
 - loss of confort that prevent slow down
