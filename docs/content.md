@@ -5,6 +5,14 @@ class: center, middle
 
 Bruno Thomas - [Iroco.co](https://iroco.co) - [@bthomas@mastodon.social](https://mastodon.social/@bthomas)
 ---
+class: middle, center
+.header[![iroco-logo](images/iroco.svg)]
+
+## Disclaimer
+
+Computers are waste anyway
+
+---
 class: middle
 .header[![iroco-logo](images/iroco.svg)]
 
@@ -110,6 +118,7 @@ class: middle
 ---
 class: middle
 .header[![iroco-logo](images/iroco.svg)]
+
 
 ## Successes
 
