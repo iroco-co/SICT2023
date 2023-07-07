@@ -78,3 +78,45 @@ collaborative and sourced
 
 Harari human ability to create stories, and thus create culture. Common stories : recognition and social construction, cultural grounding, cohesion.
 GIEC : is that a big story ?
+
+
+-------
+I find quite conceited, pretentious to expose a vision of an ICT imaginary for the future.
+At the same time we've seen how important it is to make it happen.
+
+How do we do that?
+
+One answser could be by collective intelligence.
+
+Ex : 
+- Fresque du Climat, Fresque du numérique
+- Renaissance écologique
+- Yesterday canvas
+- ask users or stakeholders with workshops
+
+Fresque : establish causality between cards. Discuss
+
+Renaissance : Drawing of an ideal city in 2050 after ecological transition.
+
+Elements : 
+- representation, illustration of real or future
+- a process made to make ideas emerge collectively
+- a safe place to make discussion happen
+
+Iroco: 
+- meta workshop to build workshops
+- test with friends or relatives
+- deploy more widelely
+
+What came out from the one we did?
+
+- digital is usefull for a lot of things. Unconceivable to stop using it, but how could we reduce the way we are using it?
+- decentralized, digital farms or data mills
+- rethink our models use collective strengths, and collective building
+
+How could we continue using it like we are doing with copper and other raw materials depletion?
+With diplomatic crisis?
+
+
+
+
